@@ -1,0 +1,11 @@
+Level 1 - Straight Shot
+Pot the ball into a pocket. no limits. no pressure.
+-1
+-1
+0
+0
+0
+1
+5
+280,280,1
+700,145,3

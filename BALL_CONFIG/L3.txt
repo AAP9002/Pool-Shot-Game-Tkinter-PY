@@ -1,0 +1,13 @@
+Level 3 - Time Pressure
+Beat the clock - pot 3 balls
+-1
+45
+0
+0
+0
+3
+10
+280,280,1
+160,215,3
+730,90,3
+630,450,3

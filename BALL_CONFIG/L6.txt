@@ -1,0 +1,11 @@
+Level 6 - Off the rails
+Pot the ball down the cushion
+1
+15
+0
+0
+0
+1
+20
+340,140,1
+375,25,3

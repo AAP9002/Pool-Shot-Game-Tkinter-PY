@@ -1,0 +1,12 @@
+Level 2 - 2 in 6 shots
+Pot 2 balls into the pockets, in 6 or under shots
+6
+-1
+0
+0
+0
+2
+10
+280,280,1
+95,95,3
+440,430,3

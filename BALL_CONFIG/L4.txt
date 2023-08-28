@@ -1,0 +1,14 @@
+Level 4 - Double Limits
+Pot the balls, under 6 shots and in time
+6
+45
+0
+0
+0
+6
+15
+280,280,1
+450,100,3
+76,80,3
+880,395,3
+685,90,3
